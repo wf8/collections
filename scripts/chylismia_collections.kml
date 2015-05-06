@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+ <Document><Folder><name>Chylismia brevipes ssp. arizonica</name>
+<Placemark>
+<name>170.0</name>
+<description>Chylismia brevipes ssp. arizonica</description>
+<Point><coordinates>-114.604762,35.864448,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>171.0</name>
+<description>Chylismia brevipes ssp. arizonica</description>
+<Point><coordinates>-114.670223,35.965286,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder><name>Chylismia brevipes ssp. brevipes</name>
+<Placemark>
+<name>114.0</name>
+<description>Chylismia brevipes ssp. brevipes</description>
+<Point><coordinates>-116.173019,34.153478,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>151.0</name>
+<description>Chylismia brevipes ssp. brevipes</description>
+<Point><coordinates>-116.891378,34.853617,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>176.0</name>
+<description>Chylismia brevipes ssp. brevipes</description>
+<Point><coordinates>-116.153071,36.28714,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>180.0</name>
+<description>Chylismia brevipes ssp. brevipes</description>
+<Point><coordinates>-116.644046,36.35499,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>182.0</name>
+<description>Chylismia brevipes ssp. brevipes</description>
+<Point><coordinates>-117.209587,36.546205,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>188.0</name>
+<description>Chylismia brevipes ssp. brevipes</description>
+<Point><coordinates>-117.296782,36.351073,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder><name>Chylismia cardiophylla ssp. cardiophylla</name>
+<Placemark>
+<name>70.0</name>
+<description>Chylismia cardiophylla ssp. cardiophylla</description>
+<Point><coordinates>-115.979261,33.591563,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder><name>Chylismia claviformis ssp. aurantiaca</name>
+<Placemark>
+<name>64.0</name>
+<description>Chylismia claviformis ssp. aurantiaca</description>
+<Point><coordinates>-115.978616,33.592245,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>86.0</name>
+<description>Chylismia claviformis ssp. aurantiaca</description>
+<Point><coordinates>-115.248618,33.9033,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>96.0</name>
+<description>Chylismia claviformis ssp. aurantiaca</description>
+<Point><coordinates>-115.24156,33.965045,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>98.0</name>
+<description>Chylismia claviformis ssp. aurantiaca</description>
+<Point><coordinates>-115.342503,34.086547,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>102.0</name>
+<description>Chylismia claviformis ssp. aurantiaca</description>
+<Point><coordinates>-115.42294,34.095824,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>108.0</name>
+<description>Chylismia claviformis ssp. aurantiaca</description>
+<Point><coordinates>-115.680836,34.10574,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>158.0</name>
+<description>Chylismia claviformis ssp. aurantiaca</description>
+<Point><coordinates>-115.677619,34.559508,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>113.0</name>
+<description>Chylismia claviformis ssp. aurantiaca</description>
+<Point><coordinates>-116.157938,34.150876,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>115.0</name>
+<description>Chylismia claviformis ssp. aurantiaca</description>
+<Point><coordinates>-116.173019,34.153478,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder><name>Chylismia claviformis ssp. claviformis</name>
+<Placemark>
+<name>128.0</name>
+<description>Chylismia claviformis ssp. claviformis</description>
+<Point><coordinates>-118.002934,35.301372,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>137.0</name>
+<description>Chylismia claviformis ssp. claviformis</description>
+<Point><coordinates>-117.982784,35.364969,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>141.0</name>
+<description>Chylismia claviformis ssp. claviformis</description>
+<Point><coordinates>-117.986009,35.310379,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>142.0</name>
+<description>Chylismia claviformis ssp. claviformis</description>
+<Point><coordinates>-117.755243,35.004733,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>157.0</name>
+<description>Chylismia claviformis ssp. claviformis</description>
+<Point><coordinates>-116.135264,34.724604,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>190.0</name>
+<description>Chylismia claviformis ssp. claviformis</description>
+<Point><coordinates>-117.929479,36.539416,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>191.0</name>
+<description>Chylismia claviformis ssp. claviformis</description>
+<Point><coordinates>-118.188443,36.787231,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>193.0</name>
+<description>Chylismia claviformis ssp. claviformis</description>
+<Point><coordinates>-118.095571,36.597934,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>197.0</name>
+<description>Chylismia claviformis ssp. claviformis</description>
+<Point><coordinates>-118.177707,36.597279,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>201.0</name>
+<description>Chylismia claviformis ssp. claviformis</description>
+<Point><coordinates>-117.887888,35.872336,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>207.0</name>
+<description>Chylismia claviformis ssp. claviformis</description>
+<Point><coordinates>-117.941908,35.613957,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder><name>Chylismia claviformis ssp. funerea</name>
+<Placemark>
+<name>181.0</name>
+<description>Chylismia claviformis ssp. funerea</description>
+<Point><coordinates>-116.830475,36.440209,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder><name>Chylismia claviformis ssp. integrior</name>
+<Placemark>
+<name>300.0</name>
+<description>Chylismia claviformis ssp. integrior</description>
+<Point><coordinates>-119.164225,38.051074,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>309.0</name>
+<description>Chylismia claviformis ssp. integrior</description>
+<Point><coordinates>-117.45837,37.445958,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>310.0</name>
+<description>Chylismia claviformis ssp. integrior</description>
+<Point><coordinates>-117.242108,37.455711,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder><name>Chylismia claviformis ssp. lancifolia</name>
+<Placemark>
+<name>305.0</name>
+<description>Chylismia claviformis ssp. lancifolia</description>
+<Point><coordinates>-118.76344,37.574921,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>306.0</name>
+<description>Chylismia claviformis ssp. lancifolia</description>
+<Point><coordinates>-118.584179,37.506936,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder><name>Chylismia claviformis ssp. peirsonii</name>
+<Placemark>
+<name>24.0</name>
+<description>Chylismia claviformis ssp. peirsonii</description>
+<Point><coordinates>-116.124512,33.282197,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>28.0</name>
+<description>Chylismia claviformis ssp. peirsonii</description>
+<Point><coordinates>-116.125279,33.28242,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>33.0</name>
+<description>Chylismia claviformis ssp. peirsonii</description>
+<Point><coordinates>-116.367557,33.314056,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder><name>Chylismia multijuga ssp. </name>
+<Placemark>
+<name>169.0</name>
+<description>Chylismia multijuga ssp. </description>
+<Point><coordinates>-114.604762,35.864448,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>172.0</name>
+<description>Chylismia multijuga ssp. </description>
+<Point><coordinates>-114.670223,35.965286,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>312.0</name>
+<description>Chylismia multijuga ssp. </description>
+<Point><coordinates>-113.802732,36.963932,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>313.0</name>
+<description>Chylismia multijuga ssp. </description>
+<Point><coordinates>-113.802732,36.963932,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>318.0</name>
+<description>Chylismia multijuga ssp. </description>
+<Point><coordinates>-113.678743,36.907861,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>319.0</name>
+<description>Chylismia multijuga ssp. </description>
+<Point><coordinates>-113.678743,36.907861,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>320.0</name>
+<description>Chylismia multijuga ssp. </description>
+<Point><coordinates>-113.678743,36.907861,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>321.0</name>
+<description>Chylismia multijuga ssp. </description>
+<Point><coordinates>-113.568848,37.000445,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder><name>Chylismia munzii ssp. </name>
+<Placemark>
+<name>177.0</name>
+<description>Chylismia munzii ssp. </description>
+<Point><coordinates>-116.598478,36.340411,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder><name>Chylismia scapoidea ssp. scapoidea</name>
+<Placemark>
+<name>384.0</name>
+<description>Chylismia scapoidea ssp. scapoidea</description>
+<Point><coordinates>-109.608735,41.235237,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>385.0</name>
+<description>Chylismia scapoidea ssp. scapoidea</description>
+<Point><coordinates>-109.585559,41.665664,0</coordinates></Point>
+</Placemark>
+</Folder>
+<Folder><name>Chylismia walkeri ssp. tortilis</name>
+<Placemark>
+<name>322.0</name>
+<description>Chylismia walkeri ssp. tortilis</description>
+<Point><coordinates>-111.576145,36.863905,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>341.0</name>
+<description>Chylismia walkeri ssp. tortilis</description>
+<Point><coordinates>-110.374456,37.799641,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>349.0</name>
+<description>Chylismia walkeri ssp. tortilis</description>
+<Point><coordinates>-110.341794,37.871326,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>351.0</name>
+<description>Chylismia walkeri ssp. tortilis</description>
+<Point><coordinates>-110.341794,37.871326,0</coordinates></Point>
+</Placemark>
+<Placemark>
+<name>352.0</name>
+<description>Chylismia walkeri ssp. tortilis</description>
+<Point><coordinates>-110.39902,37.90092,0</coordinates></Point>
+</Placemark>
+</Folder>
+</Document></kml>
